@@ -1,0 +1,5 @@
+global-styling:
+    version: '8.4.4'
+    css:
+        theme:
+            css/styles-upjv.css: {}
